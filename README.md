@@ -1,1 +1,1 @@
-# cw1
+# Currency converter
